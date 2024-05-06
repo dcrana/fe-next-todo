@@ -89,3 +89,8 @@ button {
   padding-bottom: 2px;
   border-bottom: 1px solid;
 }
+.error {
+  color: red;
+  font-style: italic;
+  font-size: 14px;
+}
